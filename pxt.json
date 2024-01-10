@@ -4,8 +4,10 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "bluetooth": "*",
+        "Bluetooth Devices": "github:MJ84ZY/bluetooth-devices#40058d06860de21ff5ed257b6a4d0ba74fe1af53",
+        "RingbitCar": "github:tinkertanker/pxt-ringbitcar#v3.1.5"
     },
     "files": [
         "README.md",
